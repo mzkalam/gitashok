@@ -13,6 +13,7 @@ public class Log4JByAshokApplication {
 		SpringApplication.run(Log4JByAshokApplication.class, args);
 		System.out.println("modified code after clone");
 		String company = "infosys";
+                String college = "knit";
 		String name = "Moiz";
 		MessageService m = new MessageService();
 		m.getWelcomeMsg();
