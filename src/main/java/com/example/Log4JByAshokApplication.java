@@ -11,6 +11,7 @@ public class Log4JByAshokApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Log4JByAshokApplication.class, args);
+		System.out.println("modified code after clone");
 		
 		
 		MessageService m = new MessageService();
