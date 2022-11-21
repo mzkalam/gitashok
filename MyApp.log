@@ -1,0 +1,5 @@
+2022-11-19 23:31:02,596 [main] INFO  com.example.Log4JByAshokApplication                - Starting Log4JByAshokApplication using Java 1.8.0_202 on DESKTOP-SH88AK5 with PID 17252 (E:\JavaProjectByRaghu\Log4JByAshok\target\classes started by Moiz in E:\JavaProjectByRaghu\Log4JByAshok)
+2022-11-19 23:31:02,600 [main] INFO  com.example.Log4JByAshokApplication                - No active profile set, falling back to 1 default profile: "default"
+2022-11-19 23:31:03,443 [main] INFO  com.example.Log4JByAshokApplication                - Started Log4JByAshokApplication in 1.387 seconds (JVM running for 2.874)
+2022-11-19 23:31:03,450 [main] INFO  com.example.dao.ReportDao                          - getName() strated
+2022-11-19 23:31:03,451 [main] INFO  com.example.dao.ReportDao                          - getName() completed!!!!!!!!!!!
