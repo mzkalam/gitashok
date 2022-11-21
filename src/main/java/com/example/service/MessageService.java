@@ -9,6 +9,7 @@ public class MessageService {
 	
 	public String greetingMsg()
 	{
+                String str = "Vishal";
 		logger.debug("greeting()-method started");
 		String greeting = "Good Morning-----!!!!";
 		logger.debug("greeting()-method completed");
